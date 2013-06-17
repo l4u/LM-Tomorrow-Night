@@ -2,7 +2,7 @@ html {
 	font-family: "Source Code Pro", "Monaco", monospace;
 	font-size: 7.5pt;
 	background-color: rgb(29, 31, 33);
-	color: #FFFFFF;
+	color: #c5c8c6;
 	padding: 0;
 	margin: 0;
 }
@@ -40,7 +40,7 @@ a {
 
 /* Messages */
 
-.message[type=privmsg] { color: #FFFFFF; }
+.message[type=privmsg] { color: #c5c8c6; }
 .message[type=action] { color: inherit;}
 .message[type=notice] { color: #B5BC6C; }
 .message[type=system] { color: #808080; }
